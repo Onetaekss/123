@@ -1,20 +1,41 @@
 #EXTM3U url-tvg="https://0i4neux01.charandom.blog/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
 
-
-#EXTINF:-1 tvg-id="stream-08863284-c2b4-4d5b-9888-0a5832eaa302" tvg-name="NHK BSP4K JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/NHK_BSP4K_2023logo.svg" group-title="🌈 4K UHD",NHK BSP4K JP
-http://caonima.898757.xyz/l/SDXaKLPZOCTetYYYWxstJmFFNbSlu3pFhbhKfqKJVJBquyjVpmqBZNFcxriFZg53/index.m3u8
-#EXTINF:-1 tvg-id="stream-d3d836ef-81ad-4824-b067-2262fc39f2b4" tvg-name="NHK BS8K JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/NHK_BS8K_%282020%29.svg" group-title="🌈 4K UHD",NHK BS8K JP
-http://caonima.898757.xyz/l/6SlPUZ038LKqvVEN44YyvRkGnEKsZX4UpoXf37ecTuoPXRRY_10iUJeBI6g1LG0b/index.m3u8
-#EXTINF:-1 tvg-id="stream-bfe395aa-dd0e-4b14-ac49-40f0b6354924" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="🇯🇵 日本频道",TOKYO MX1
-http://caonima.898757.xyz/l/AlV4r5SAb0AnbqrB8tlTVX8rKn76_OBn0jIEF94lCrSq9Gm_ApwqiBe_NFd9nk7f/play
+#EXTINF:-1 tvg-id="stream-c46d244f-deac-4688-96a6-fddd01558261" tvg-name="NHK G HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK G HD
+http://caonima.898757.xyz/l/apM1KUjdhaVBiurUqUpGMaCNpO5SZ6W-hWij5VrA6XcxY3EjoT_aiPovUc0MgE_H/play
+#EXTINF:-1 tvg-id="stream-14a821e8-0fbf-4a7f-9169-474434cb3143" tvg-name="NHK E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK E HD
+http://caonima.898757.xyz/l/voDiVzkqbGesvfU_3Guf6jZ3ZAsgIo65KmKVsSrC3MJWAVGnD0t4SCEcyOfMvmpN/play
+#EXTINF:-1 tvg-id="stream-7e75e094-cc8d-4e24-8269-1ae0c6b1c828" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="🇯🇵 日本频道",NTV HD
+http://caonima.898757.xyz/l/v-mns493okqjG-NBrW2K7a51CkPfUCN8I_sQC7YXpK9P862TtaWN9etG9729lM1e/play
+#EXTINF:-1 tvg-id="stream-ebd641ff-344f-40ae-981a-c70d23f948c0" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="🇯🇵 日本频道",TBS HD
+http://caonima.898757.xyz/l/r5bbIHg9GfPT4u-RHn703cNFHUbEk3p-slgj1jeuL7YeSopHMsjnGfAezf4AFYvb/play
+#EXTINF:-1 tvg-id="stream-21867040-a977-4879-807c-6d4d0d79c362" tvg-name="Fuji TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="🇯🇵 日本频道",Fuji TV HD
+http://caonima.898757.xyz/l/WrJSzMMydVwr6G4kyD-uZuwfmcuatbU578kazAttjykJOV8VhFTSgOKu3IOFOUyw/play
+#EXTINF:-1 tvg-id="stream-eb29750b-b8de-499b-b44c-d23872f2ee39" tvg-name="TV Asahi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png" group-title="🇯🇵 日本频道",TV Asahi HD
+http://caonima.898757.xyz/l/DKqsCzJBBDkFnhc1NWD-mCPnWzTb-Hu3YgldgSpvPuXu7g91M7OlRO502H-QapXS/play
+#EXTINF:-1 tvg-id="stream-a0879429-d7cf-4c7e-8522-5ce66783e9b6" tvg-name="TV Tokyo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="🇯🇵 日本频道",TV Tokyo HD
+http://caonima.898757.xyz/l/GV8lmjCU3qE36DGx-MYuLVpvs9D96_n_0IbToiEHl03JxJKEgG9xk1l3d-9BwV5a/play
+#EXTINF:-1 tvg-id="stream-0be505d3-63df-4397-b8e4-d7598066b941" tvg-name="TOKYO MX1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="🇯🇵 日本频道",TOKYO MX1 HD
+http://caonima.898757.xyz/l/yWjpdYrIhh9d8h_GhzNTm8qqf3rbw5nDm_WlfhyRApmh_zAOsn-I5jF22wiefODC/play
+#EXTINF:-1 tvg-id="stream-68f52aea-1b6d-40e8-a033-67bf8e8e719c" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK G
+http://caonima.898757.xyz/l/FRlZZa_0943qvx5uhNbkbJV9OplSqewQamJlTLCvfOZq8boajbbsfPGJxB1REznI/play
+#EXTINF:-1 tvg-id="stream-6d66a831-24e2-4157-ad4d-f60c9d314a3c" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK E
+http://caonima.898757.xyz/l/XbMTmVI0-AW_UVbzVk0OBExFF8fXhmChBXpuD69XulUwka9vS5SXo_ig0zcVBOki/play
+#EXTINF:-1 tvg-id="stream-f87d082a-321b-4eae-8141-64d281207183" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="🇯🇵 日本频道",NTV
+http://caonima.898757.xyz/l/T_RnAdCPsRRqgTLMKZpic34f_3Lza4lw0ppY4p1aL6x6m_jfRgSnICuQfQm2LS3X/play
+#EXTINF:-1 tvg-id="stream-4bce0152-eba8-4d65-8c66-f46cdd0b8d98" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="🇯🇵 日本频道",TBS
+http://caonima.898757.xyz/l/66FYK-EWHZW-1lbiHDBWtfIEMVl1vX-wvBjsLJxzdZkDUp8HDBfFy10Cf6i1YPva/play
+#EXTINF:-1 tvg-id="stream-11554d21-130b-460b-b78a-48ea30823d2c" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="🇯🇵 日本频道",Fuji TV
+http://caonima.898757.xyz/l/2cxcXrQcJpPRXYR3Zg0szb70fjkxb5zwJT4Imolu-p8bUxbWwRwqLQt7wl3zlgsx/play
+#EXTINF:-1 tvg-id="stream-3f294ed5-a2e1-434c-8f7d-bb1f89ec18e3" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png" group-title="🇯🇵 日本频道",TV Asahi
+http://caonima.898757.xyz/l/LG40OvLIse_wQLrHKfM4Ems5NwCcIApDKgfvs_RF_RD3UlRuOuTTW-8eHHs6JVyW/play
+#EXTINF:-1 tvg-id="stream-c34e555d-d1a7-4caa-bf96-bbae7bd742b3" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="🇯🇵 日本频道",TV Tokyo
+http://caonima.898757.xyz/l/QkkpoBp23geiYcmumsoEi6Pdb2ZfgUZvYahh1PcveYL4qmUB2WjN6GHi8CESlRwq/play
 #EXTINF:-1 tvg-id="stream-0ab54617-cc80-4abe-aa9e-e8acb7024b8b" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png" group-title="🇯🇵 日本频道",NHK G
 http://caonima.898757.xyz/l/3ZODhgPOFtA9ZKQuFq_obOEINRVMzd1GYcLY18QPuhU5l_roKvwrripfk-icZY9s/index.m3u8
 #EXTINF:-1 tvg-id="stream-5f7e1c51-05ec-4d3d-9ad7-a1e3a30dbde8" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK G Osaka
 http://caonima.898757.xyz/l/a9puphaZGlFEvTKQin1KJ6bSv3LYlnIxE3KsHbg7q7Q0rMSKP9pEx77ED_y-MuGU/play
 #EXTINF:-1 tvg-id="stream-46877183-33fb-4bd5-8eaa-f92a22b8689c" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png" group-title="🇯🇵 日本频道",MBS
 http://caonima.898757.xyz/l/SFBE3ehaxQq6GF6O4dbEnH0z4L6Wq2Hvb8JA2WkLRrvR5LLMyLpp0l1qoo-iHwK7/play
-#EXTINF:-1 tvg-id="stream-072628a8-0fcd-4529-9b33-41d15d47d810" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="🇯🇵 日本频道",ABC
-http://caonima.898757.xyz/l/kOThdPmnD9nSkrvdfBswy80HmEiZE4Cx68ntEsxef5HliDS0NbVnKXMNMQQzwrqN/play
 #EXTINF:-1 tvg-id="stream-9d12e5f9-395c-4688-9c27-0d6e7c445862" tvg-name="Kansai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png" group-title="🇯🇵 日本频道",Kansai TV
 http://caonima.898757.xyz/l/QbLPUHqBrBZn-n4pFvNtUiPaNW-bw0BEJre1p7c1RoPuyFFtOTqC7iEY9SlPH6jd/play
 #EXTINF:-1 tvg-id="stream-dc8dc8ec-cca4-458a-b7b1-e998cdc290e2" tvg-name="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="🇯🇵 日本频道",ytv
@@ -123,118 +144,18 @@ http://caonima.898757.xyz/l/LYOND_le1HjAvrGE7DvVcDniD6gv1zA1biGa4sXI84wbYnBcgoY3
 http://caonima.898757.xyz/l/2Q-jqMyt4JewAR9bUndi-yCd_bzRZHGs8HTNd-AmSRf6hPG1NsiWuzjTycNSImjb/play
 #EXTINF:-1 tvg-id="stream-c8f7f542-28b5-4db0-b306-8fbd162b1db3" tvg-name="CNNj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg" group-title="🇯🇵 日本频道",CNNj
 http://caonima.898757.xyz/l/Up9yZluYq03S9nxsHz_z5GJAVUVlylol_L74LfgWkYd4aVp1rsruAnz4q5VmwZZK/play
-#EXTINF:-1 tvg-id="stream-f97f6f4e-22c9-49f0-b297-fa1b737cc6b2" tvg-name="BBC News" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg" group-title="🇯🇵 日本频道",BBC News
-http://caonima.898757.xyz/l/LAIWqqyS9MxObJtV4iPMneg1g0mnnEMWm1eOIbad1IuHfq7VT_HYbAedUVg5gmAB/play
 #EXTINF:-1 tvg-id="stream-5e17a73b-c192-47b6-b717-2e0dd9bc71d4" tvg-name="TBS News" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png" group-title="🇯🇵 日本频道",TBS News
 http://caonima.898757.xyz/l/Oj4xOZCBhx4vyJAlschm2c20ndm0qamFZfqT1dl3x7Q3e7i5hVbASna-UhHZwFXA/play
-#EXTINF:-1 tvg-id="stream-c46d244f-deac-4688-96a6-fddd01558261" tvg-name="NHK G HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK G HD
-http://caonima.898757.xyz/l/apM1KUjdhaVBiurUqUpGMaCNpO5SZ6W-hWij5VrA6XcxY3EjoT_aiPovUc0MgE_H/play
-#EXTINF:-1 tvg-id="stream-14a821e8-0fbf-4a7f-9169-474434cb3143" tvg-name="NHK E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK E HD
-http://caonima.898757.xyz/l/voDiVzkqbGesvfU_3Guf6jZ3ZAsgIo65KmKVsSrC3MJWAVGnD0t4SCEcyOfMvmpN/play
-#EXTINF:-1 tvg-id="stream-7e75e094-cc8d-4e24-8269-1ae0c6b1c828" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="🇯🇵 日本频道",NTV HD
-http://caonima.898757.xyz/l/v-mns493okqjG-NBrW2K7a51CkPfUCN8I_sQC7YXpK9P862TtaWN9etG9729lM1e/play
-#EXTINF:-1 tvg-id="stream-ebd641ff-344f-40ae-981a-c70d23f948c0" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="🇯🇵 日本频道",TBS HD
-http://caonima.898757.xyz/l/r5bbIHg9GfPT4u-RHn703cNFHUbEk3p-slgj1jeuL7YeSopHMsjnGfAezf4AFYvb/play
-#EXTINF:-1 tvg-id="stream-21867040-a977-4879-807c-6d4d0d79c362" tvg-name="Fuji TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="🇯🇵 日本频道",Fuji TV HD
-http://caonima.898757.xyz/l/WrJSzMMydVwr6G4kyD-uZuwfmcuatbU578kazAttjykJOV8VhFTSgOKu3IOFOUyw/play
-#EXTINF:-1 tvg-id="stream-eb29750b-b8de-499b-b44c-d23872f2ee39" tvg-name="TV Asahi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png" group-title="🇯🇵 日本频道",TV Asahi HD
-http://caonima.898757.xyz/l/DKqsCzJBBDkFnhc1NWD-mCPnWzTb-Hu3YgldgSpvPuXu7g91M7OlRO502H-QapXS/play
-#EXTINF:-1 tvg-id="stream-a0879429-d7cf-4c7e-8522-5ce66783e9b6" tvg-name="TV Tokyo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="🇯🇵 日本频道",TV Tokyo HD
-http://caonima.898757.xyz/l/GV8lmjCU3qE36DGx-MYuLVpvs9D96_n_0IbToiEHl03JxJKEgG9xk1l3d-9BwV5a/play
-#EXTINF:-1 tvg-id="stream-0be505d3-63df-4397-b8e4-d7598066b941" tvg-name="TOKYO MX1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="🇯🇵 日本频道",TOKYO MX1 HD
-http://caonima.898757.xyz/l/yWjpdYrIhh9d8h_GhzNTm8qqf3rbw5nDm_WlfhyRApmh_zAOsn-I5jF22wiefODC/play
-#EXTINF:-1 tvg-id="stream-68f52aea-1b6d-40e8-a033-67bf8e8e719c" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK G
-http://caonima.898757.xyz/l/FRlZZa_0943qvx5uhNbkbJV9OplSqewQamJlTLCvfOZq8boajbbsfPGJxB1REznI/play
-#EXTINF:-1 tvg-id="stream-6d66a831-24e2-4157-ad4d-f60c9d314a3c" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="🇯🇵 日本频道",NHK E
-http://caonima.898757.xyz/l/XbMTmVI0-AW_UVbzVk0OBExFF8fXhmChBXpuD69XulUwka9vS5SXo_ig0zcVBOki/play
-#EXTINF:-1 tvg-id="stream-f87d082a-321b-4eae-8141-64d281207183" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="🇯🇵 日本频道",NTV
-http://caonima.898757.xyz/l/T_RnAdCPsRRqgTLMKZpic34f_3Lza4lw0ppY4p1aL6x6m_jfRgSnICuQfQm2LS3X/play
-#EXTINF:-1 tvg-id="stream-4bce0152-eba8-4d65-8c66-f46cdd0b8d98" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="🇯🇵 日本频道",TBS
-http://caonima.898757.xyz/l/66FYK-EWHZW-1lbiHDBWtfIEMVl1vX-wvBjsLJxzdZkDUp8HDBfFy10Cf6i1YPva/play
-#EXTINF:-1 tvg-id="stream-11554d21-130b-460b-b78a-48ea30823d2c" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="🇯🇵 日本频道",Fuji TV
-http://caonima.898757.xyz/l/2cxcXrQcJpPRXYR3Zg0szb70fjkxb5zwJT4Imolu-p8bUxbWwRwqLQt7wl3zlgsx/play
-#EXTINF:-1 tvg-id="stream-3f294ed5-a2e1-434c-8f7d-bb1f89ec18e3" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png" group-title="🇯🇵 日本频道",TV Asahi
-http://caonima.898757.xyz/l/LG40OvLIse_wQLrHKfM4Ems5NwCcIApDKgfvs_RF_RD3UlRuOuTTW-8eHHs6JVyW/play
-#EXTINF:-1 tvg-id="stream-c34e555d-d1a7-4caa-bf96-bbae7bd742b3" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="🇯🇵 日本频道",TV Tokyo
-http://caonima.898757.xyz/l/QkkpoBp23geiYcmumsoEi6Pdb2ZfgUZvYahh1PcveYL4qmUB2WjN6GHi8CESlRwq/play
 #EXTINF:-1 tvg-id="stream-d8e5e4ec-3731-4f92-a74b-258fd4536397" tvg-name="CGNTV Japan (1080p)" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="🇯🇵 日本频道",CGNTV Japan (1080p)
 http://caonima.898757.xyz/l/uuZm27JWKfiovuz7zVVKt5UWL3M98E-3svMJjgU5VJbvwmMOA9RcF8NLQ4HLoYoU/play
 #EXTINF:-1 tvg-id="stream-87c55001-4abe-4c87-bf44-a87b33b61e42" tvg-name="GSTV (720p)" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="🇯🇵 日本频道",GSTV (720p)
 http://caonima.898757.xyz/l/WLSlm_CMNYqmf0EYWxgt8wJcLbAtwfEqqYVUk9kTrYnZAVJrUMKDsbpTQlSfPW-5/play
-#EXTINF:-1 tvg-id="stream-cc920fc8-5f65-43c3-bccc-f8897cac3032" tvg-name="MNB World (1080p)" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="🇯🇵 日本频道",MNB World (1080p)
-http://caonima.898757.xyz/l/Ud0TeahsKjf-5OqvqW7djA6B_-cUMgXrHl1IHpYR12qznCdkbV6UF-ScgKheoN9h/play
-#EXTINF:-1 tvg-id="stream-c274af7d-f9a7-42bb-8459-0670ee34635d" tvg-name="NHK General TV (720p)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="🇯🇵 日本频道",NHK General TV (720p)
-http://caonima.898757.xyz/l/TqvhRXR7CxqkoWzQG1WpyyQYVnrRXhcWTlWscrPvFMT32gzAJ4zPiuX_oag7pIAr/play
-#EXTINF:-1 tvg-id="stream-98505039-0940-461b-98d5-267966396b40" tvg-name="Nippon TV (576p)" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="🇯🇵 日本频道",Nippon TV (576p)
-http://caonima.898757.xyz/l/hcpcepolyTdiFcOlTXCi36R8j6BH_LKW1UMqhE2M_u-MSFhsDS-EKK3xHcB1hLDI/play
 #EXTINF:-1 tvg-id="stream-7211664a-d3e4-4639-8de6-cd9dd07a3bed" tvg-name="QVC (Japan) (1080p)" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="🇯🇵 日本频道",QVC (Japan) (1080p)
 http://caonima.898757.xyz/l/u0bt7RZ3K5jYsvay83tDdcVevYUj1U2h0Zgd4tRAqVoIeihE7GkNwXUeSOIvtEuR/play
-#EXTINF:-1 tvg-id="stream-3851a9ca-1311-422e-83cc-95b288be08d9" tvg-name="Shop Channel (1080p) [Not 24/7]" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="🇯🇵 日本频道",Shop Channel (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="stream-3851a9ca-1311-422e-83cc-95b288be08d9" tvg-name="Shop Channel (1080p) [Not 24/7]" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="🇯🇵 日本频道",Shop Channel (1080p)
 http://caonima.898757.xyz/l/yxvKnLYx6uhi08Ky5LlcYalF1IuID0h4D5sdBZxNb9Y1cvoM0pJD5OnnFVA8yO83/play
-#EXTINF:-1 tvg-id="stream-4e01c2c7-6a39-49a8-bab5-207a2c4a2ca6" tvg-name="TBS TV (Japan) (540p)" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="🇯🇵 日本频道",TBS TV (Japan) (540p)
-http://caonima.898757.xyz/l/iMUpPXRj-D6XKhTGbzXsf99IW63CnN5KvVlsUN0bpNUzyPkZIdaUkC40OtpjUADv/play
-#EXTINF:-1 tvg-id="stream-650f56a9-00e8-4766-902a-ab3d635c0199" tvg-name="TV Tokyo (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="🇯🇵 日本频道",TV Tokyo (576p)
-http://caonima.898757.xyz/l/xkDGmye54oBe8O-uuVyvL7c0YUHAqtBwc_RSnZJIQ2_76PNZIsvR-R4reV8oSUs4/play
 #EXTINF:-1 tvg-id="stream-84d9b37d-5fb2-430e-866c-64198b6ffaeb" tvg-name="Weathernews (720p)" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="🇯🇵 日本频道",Weathernews (720p)
 http://caonima.898757.xyz/l/V6HTOcAufW1DRgEkFm79LRjnByDYQEOaozezUMExTk7NRvm6tviRTsEjxsg3kkdm/play
-#EXTINF:-1 tvg-id="stream-81a68c28-f89e-4da2-9cc0-9467d264e236" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png" group-title="🇯🇵 日本频道",日テレNEWS
-http://caonima.898757.xyz/l/YpViX186AlfwCGnh1gMvCac0zMyed4r4F2LOhNU3xW220Ni2g1ztrSs7Kosebazq/play
-#EXTINF:-1 tvg-id="stream-b942f873-0f84-4150-bb52-3c77bd2f94be" tvg-name="FNNプライムオンライン" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_108.png" group-title="🇯🇵 日本频道",FNNプライムオンライン
-http://caonima.898757.xyz/l/4T-tnnHc3Fe59Pm8fCeFf-2J73KnUN_7cUUSHOw500a9tFX4mMvPqjTTIZePm_WT/play
-#EXTINF:-1 tvg-id="stream-e3644657-ab71-41d3-961a-bc58408205ba" tvg-name="MBSニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_115.png" group-title="🇯🇵 日本频道",MBSニュース
-http://caonima.898757.xyz/l/4fjkdodq3xuNmcV23FmCiGOBmGYI720qInwfZkDRC8vi2J_VQI5x-bi6JS97648d/play
-#EXTINF:-1 tvg-id="stream-473273eb-49d4-4cf3-846e-b729b886344a" tvg-name="日テレNEWSセレクト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_101.png" group-title="🇯🇵 日本频道",日テレNEWSセレクト
-http://caonima.898757.xyz/l/V6M4lhOtS9Igx8J8U9Fgg5T8NyVhdVZmJ0Fw_vN0589TEzWJzJuZtH--18aRIxvo/play
-#EXTINF:-1 tvg-id="stream-ccea248f-2314-4e13-b00f-604d73ec6d8c" tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png" group-title="🇯🇵 日本频道",共同通信News
-http://caonima.898757.xyz/l/1AtLMfJAa-t7zCAtZco3qtADSL1HgMlAAcZ8aS4Ok5CapICwJPOJIcP7XMPbelSo/play
-#EXTINF:-1 tvg-id="stream-a91acef1-eaeb-4c9a-957f-32c48bbf414e" tvg-name="NewsWorld" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/newsworld.png" group-title="🇯🇵 日本频道",NewsWorld
-http://caonima.898757.xyz/l/jVgf7_1wQEW9lT64UlUcbPXQevxZ82fp2N_vqEmS0HK7jTZmjMj8qksU0qQc2NVG/play
-#EXTINF:-1 tvg-id="stream-5c7d59c7-d324-45fb-b8cf-3374f77ab647" tvg-name="オリコンニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_54.png" group-title="🇯🇵 日本频道",オリコンニュース
-http://caonima.898757.xyz/l/4mi-iiHPRrHSJf54f1xsRwJGlrWBzLUviGwwROcadzEiBCh9oK3ygsQZU8FH2OTr/play
-#EXTINF:-1 tvg-id="stream-deba0f26-611f-499a-9892-5221d10ee045" tvg-name="STOCK VOICE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/stock_voice.png" group-title="🇯🇵 日本频道",STOCK VOICE
-http://caonima.898757.xyz/l/gizIYWHsTcb_DBB_fMxGfozSIvxP6e1fNN_LgAcyy9ZcaxZjukA53AyWNU-pxJyG/play
-#EXTINF:-1 tvg-id="stream-f3d90934-1a82-4c26-86bf-a190d9881239" tvg-name="Bloomberg TV+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bloomberg_tv.png" group-title="🇯🇵 日本频道",Bloomberg TV+
-http://caonima.898757.xyz/l/mSDcRxkow5eCQ5uTO1_tijgE4epiWL2MGuMvR17yXfEDCmVQv9lAzqiQR9sg8e5u/play
-#EXTINF:-1 tvg-id="stream-2be79bde-97a4-44e2-9b24-03f927415fc4" tvg-name="Euronews" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/euronews.png" group-title="🇯🇵 日本频道",Euronews
-http://caonima.898757.xyz/l/YAnlVvSZtk0R50jTH9YlKPrxQ_ANzQtEJRkc9J9QcTmjC4sbSsIfvgkUgMExfPXm/play
-#EXTINF:-1 tvg-id="stream-d01d9d11-c6e9-41c5-b3ee-aed554cc8491" tvg-name="Reuters 60" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/reuters_60.png" group-title="🇯🇵 日本频道",Reuters 60
-http://caonima.898757.xyz/l/ULlZcto1PVnr7TMu0ZpQ1K_Klce_yR7-7a-Qk8mtF6653QfllAnAwudlKwd1VAef/play
-#EXTINF:-1 tvg-id="stream-278cfce7-e070-4b60-b598-ba6eb445502d" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png" group-title="🇯🇵 日本频道",TOP BARÇA
-http://caonima.898757.xyz/l/G8Fai4Q6FrzakC_cOrS_DkbD_UA3hle4x2oQoZ6UWygnHSsChfpWP0K7yeLN421U/play
-#EXTINF:-1 tvg-id="stream-6329685c-354a-4134-ba58-027bc7062598" tvg-name="NTV Pro Wrestling" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_pro_wrestling.png" group-title="🇯🇵 日本频道",NTV Pro Wrestling
-http://caonima.898757.xyz/l/GOZNH9TfBWhRZSPuT2iA_vxwky4hOJBR_Jcl84QRjnPuMppnGllRbqObRylJ2f5T/play
-#EXTINF:-1 tvg-id="stream-93d3875c-6c89-4a43-ad13-5029fd9244ce" tvg-name="刺激ストロングSPORTS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_48.png" group-title="🇯🇵 日本频道",刺激ストロングSPORTS
-http://caonima.898757.xyz/l/CObHu7BmHupJL2kYujUhdMKMhLh8tTu3jssNeFH4coNuXX3sws8OF439k_gIjgWP/play
-#EXTINF:-1 tvg-id="stream-08692e67-15dc-49f8-ae7a-6d9e8707ce3f" tvg-name="FUEL TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuel_tv.png" group-title="🇯🇵 日本频道",FUEL TV
-http://caonima.898757.xyz/l/EeUUc_BfyvnF4W7lc__FXaVwLUXKnpSFw9w75Xa-5-I4Q13SASviw5xH-RWjicJg/play
-#EXTINF:-1 tvg-id="stream-fd9f3f40-64f8-498c-9ffa-125e99dd3e8f" tvg-name="NEW KPOP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/new_kpop.png" group-title="🇯🇵 日本频道",NEW KPOP
-http://caonima.898757.xyz/l/GVnCdtl1kPJVfLngLsiSu023Ez-tT9NaiNLR2WsrFcn5qSGCDVgNtHZ9OWzLrBXV/play
-#EXTINF:-1 tvg-id="stream-8e8ba754-aa1d-4c29-ad35-dfb2455d5845" tvg-name="ムビドラTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_34.png" group-title="🇯🇵 日本频道",ムビドラTV
-http://caonima.898757.xyz/l/ap8xfVSioFxBDlYgxo8xHKserxlN_FVQYdLPYqVnFak_2dhdK1-yCsAgrva669_z/play
-#EXTINF:-1 tvg-id="stream-1d13f5f7-383d-4c64-a90f-b9e8a7b199e1" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png" group-title="🇯🇵 日本频道",手塚プロダクションTV
-http://caonima.898757.xyz/l/rIEVkMcq8WT_j6m6QpkZYVJjaI5pCN8XL0NAt11LzB61s1ClzqeCIEVDe6p3fSrs/play
-#EXTINF:-1 tvg-id="stream-dbc4f6e3-eecf-43ab-aa89-7b2daac21635" tvg-name="しまじろうチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_61.png" group-title="🇯🇵 日本频道",しまじろうチャンネル
-http://caonima.898757.xyz/l/TG73Vjco8Jwwoi4StYX9L3MsCudO25DW9yztIj0FMZXTdiNMOwbgR3P4aeY98ahy/play
-#EXTINF:-1 tvg-id="stream-3f767dfa-d3f0-4944-8f87-f3dccaf3b414" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png" group-title="🇯🇵 日本频道",キッズ
-http://caonima.898757.xyz/l/8c1VdVACYa_H0ur7rWaAgBM7dRUdokUHyF2QEXvp3vSI5WToX6eaMNzV_tchk36u/play
-#EXTINF:-1 tvg-id="stream-0f97f9c8-d285-4da5-aefa-8572eef060ec" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png" group-title="🇯🇵 日本频道",that’s 70s
-http://caonima.898757.xyz/l/XY_CU7gX0EF9jJ-rSA_kFNTDYXoEPEMvvb0JSIhBWy7nACMxBpCFqLWC4W6bEcv4/play
-#EXTINF:-1 tvg-id="stream-6947c2bc-1ae5-4c15-b1c3-ee6235ea31eb" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png" group-title="🇯🇵 日本频道",that’s 80s
-http://caonima.898757.xyz/l/vzRMjJO_V3yOC2QntvBDK18a6zphLYmLQwfo72_8k0HB6a3piBOO5W20FBKHZ1LV/play
-#EXTINF:-1 tvg-id="stream-eb7653be-ea40-4d8e-85d2-817a6cbb5f1d" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png" group-title="🇯🇵 日本频道",that’s 90s00s
-http://caonima.898757.xyz/l/_kYNUwNXVRWg8lKVHO7KbYONar7yNvAUmrnUt6jOomRWZ6IBB6gmuledVxLTocDi/play
-#EXTINF:-1 tvg-id="stream-4df3bea6-3db3-494e-9a16-9f8df6d63a73" tvg-name="that’s Rock" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_rock.png" group-title="🇯🇵 日本频道",that’s Rock
-http://caonima.898757.xyz/l/e8YhMW56tqBei-Dh70GNphkz5SJAxu8e0rh9u7yQpknmUvRI1Q4XNLk1ZOCDMjVr/play
-#EXTINF:-1 tvg-id="stream-d9ec5ca8-f66d-4205-9261-2ed6aac50f71" tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png" group-title="🇯🇵 日本频道",麻雀
-http://caonima.898757.xyz/l/LE8wk_yU0kybN4zPRiVoLOw8u_LwIoWA_lvbPq2NxOT-0eVUYlZC4x-i2oturZZq/play
-#EXTINF:-1 tvg-id="stream-857145ac-c5a2-430c-b449-88a5a6977f38" tvg-name="パチンコ・パチスロ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_35.png" group-title="🇯🇵 日本频道",パチンコ・パチスロ
-http://caonima.898757.xyz/l/yZ-nMUdsgltTqF0VKVgsiHEBeSYwLATR6YLJwrtE8cjuqq1fWi8PcLsHfxJoAqDr/play
-#EXTINF:-1 tvg-id="stream-fe3eed73-30df-49cd-87b1-da1b4cb2e250" tvg-name="ぷれいば！" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_113.png" group-title="🇯🇵 日本频道",ぷれいば！
-http://caonima.898757.xyz/l/3LAbKpNjR0Fhw4A-WW3x7iQzpwHk3fhq1TztFSXLcTP6o4nU8Tf3aXsbBj61djtb/play
-#EXTINF:-1 tvg-id="stream-a95391b4-6738-4394-a683-fa42a5dd1943" tvg-name="ワンニャンチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_86.png" group-title="🇯🇵 日本频道",ワンニャンチャンネル
-http://caonima.898757.xyz/l/jvqkdLlPFTCMSuSt7PZ0lEafMEHI928GbRug5Pqy0Hjb1nK5PfwrBc2jRBjSPH1X/play
-#EXTINF:-1 tvg-id="stream-c852e126-379a-4a04-9fe2-9719b8a1699e" tvg-name="九州・沖縄　街ネタ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_114.png" group-title="🇯🇵 日本频道",九州・沖縄　街ネタ
-http://caonima.898757.xyz/l/QxDQfw_nbK9ZGLySHdkxpBZwLVDN8v7lwSdVh_LMvn6rtgDyLuao44avCrEhWE7G/play
 #EXTINF:-1 tvg-id="stream-af47e957-7219-4e9d-8289-c7fc0eeba4ca" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png" group-title="🇯🇵 日本频道",QVC
 http://caonima.898757.xyz/l/-L_Fi83FOpML0IqVLFdBmF1yQHwaeczwyZxSxuY6ngQr7TNjkU4jVDLNfbZFvZDM/play
 #EXTINF:-1 tvg-id="stream-5a88f15f-49d2-4800-9156-cc09371685d8" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png" group-title="🇯🇵 日本频道",GSTV
@@ -275,53 +196,5 @@ http://caonima.898757.xyz/l/Aq2ArHiT1wU2r7cgRdEcQrb0o3nqB1nWdxDf7ANWP7C-rRUGQwQP
 http://caonima.898757.xyz/l/XxSpPtG1ybtBX1V9Yj6fKbPUno52w8i7NFTBDtSxO8jMKgYhlG6shrZC-0NRUNka/play
 #EXTINF:-1 tvg-id="stream-11063904-21ab-44bd-9cd6-0e18bf40ab7f" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png" group-title="🇯🇵 日本频道",韓流チャンネル (FAST)
 http://caonima.898757.xyz/l/x2LFBJojg1I1x82QJBKeZdQN3TtTdBE2crygOHm_PyrIXaKyuw1kbPSUIn8ZVCLv/play
-#EXTINF:-1 tvg-id="stream-b2ec7eb5-b304-4960-9708-cb90d586f63d" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png" group-title="🇯🇵 日本频道",Fishing Vision
-http://caonima.898757.xyz/l/I7YGdRHgwvpU_jXfxYsLjpXzU7tEoRGuY0pNvhYpHjNDMTsau0c-WrGorA0AMxEs/play
-#EXTINF:-1 tvg-id="stream-e6197b10-b209-44b2-a2af-5955572f66fd" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png" group-title="🇯🇵 日本频道",JCOM BS
-http://caonima.898757.xyz/l/gsxcL3P8t2PxvEgZDLEDdiTRjfryMjye4OVoTXXCTG8WDuhmhCoDIAitmprCVdqN/play
-#EXTINF:-1 tvg-id="stream-c48fb3bc-39ce-4dc7-83c0-aee5460f9506" tvg-name="囲碁・将棋ライト (R)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_100.png" group-title="🇯🇵 日本频道",囲碁・将棋ライト (R)
-http://caonima.898757.xyz/l/GQZ6hPgIk9WpZqDa3u7-rCqJzEbgpxaAT9rB36LlaXxYahNRpULkM7DCEi8QK_ti/play
-#EXTINF:-1 tvg-id="stream-5442a505-c89c-452c-b12f-882b0865e10f" tvg-name="BBC News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bbc_news.png" group-title="🇯🇵 日本频道",BBC News
-http://caonima.898757.xyz/l/pikHx5ye2R5D1SW1Faw1lSBIyeWGw_j1yJJ_BIctfwE11-zei1GmbPi9MeXfyOJw/play
-#EXTINF:-1 tvg-id="stream-63e79f3a-ca54-4dea-8b6d-13435de4e10e" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png" group-title="🇯🇵 日本频道",Toei Channel
-http://caonima.898757.xyz/l/EtkDiGpDsizmvGD7C-GFqUaswtnJ09aIAfLGq3V5xlo-VCwrcqj_4TwGXGQZM7Hc/play
-#EXTINF:-1 tvg-id="stream-80df24c4-0973-4e13-8511-30f15b262899" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png" group-title="🇯🇵 日本频道",Movie Plus
-http://caonima.898757.xyz/l/o8Z-NVHuhKbWaF-6JAfdQloVSRoIANdp_aFzWmH3KJ0JoR-ZYlzSbg8G9UfAW54r/play
-#EXTINF:-1 tvg-id="stream-d5ab6d7f-ac33-49fd-8641-770ca552a886" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png" group-title="🇯🇵 日本频道",Eisei Gekijo
-http://caonima.898757.xyz/l/bv-jvadEUyqcO-8xjDNTIzPWNJDXKSPdxIpORR9WtA5g8SXxLjC34x8PFn_xvwCL/play
-#EXTINF:-1 tvg-id="stream-a5344861-4b33-45bb-a633-6cda1d471cec" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png" group-title="🇯🇵 日本频道",Jidaigeki Senmon
-http://caonima.898757.xyz/l/syE3BXZ39yGzdt8yHImgtX0lZAj9Nj9Ogy_JRBDVozLDY02padoW1dn4IRutXjbi/play
-#EXTINF:-1 tvg-id="stream-079cf551-b043-4c3f-8836-1f7a81a3b1a1" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png" group-title="🇯🇵 日本频道",Home Drama Channel
-http://caonima.898757.xyz/l/bGljp-E7Hf7PY5EWPqFUuzAYknDMYRcouOpfPRA8BOUuD52auIbOXj6gzFxHdpAE/play
-#EXTINF:-1 tvg-id="stream-70c507cd-1cc0-4e67-8716-7e1ab508faa8" tvg-name="Channel Ginga" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png" group-title="🇯🇵 日本频道",Channel Ginga
-http://caonima.898757.xyz/l/-zgPHVUHzS-UuuV0853LC8QujL8aDVCUjeNtKtpcMcYXjvuY8Mzp38DZ6rZiylHJ/play
-#EXTINF:-1 tvg-id="stream-0dbdbe4d-ea4d-4e5e-8359-c4461deeca8b" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png" group-title="🇯🇵 日本频道",LaLa TV
-http://caonima.898757.xyz/l/LFshJk2tGs3YMqdn9B5IDPvWFsQruixGEgJWmfgjiDg-51F1GxxTXhKh8jkv0Fbl/play
-#EXTINF:-1 tvg-id="stream-a1a77f8d-cd42-486b-86d9-e8def59dee2a" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png" group-title="🇯🇵 日本频道",Music Japan TV
-http://caonima.898757.xyz/l/Bd-iBvxwhrSwl1GBSuWjgXsXx_HhL5AKaedmjx8-kJgwAOgD6Kj_KQFp8PiDy4Cl/play
-#EXTINF:-1 tvg-id="stream-e5a27f62-a43f-49a6-a177-fcd22f9f3794" tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png" group-title="🇯🇵 日本频道",Takarazuka Sky Stage
-http://caonima.898757.xyz/l/LoMYhm3KCEZTZz5lxPxUstweX-vns5avPMGpAmo_Lrw7CaGDw4tdFg8Ec_McOemp/play
-#EXTINF:-1 tvg-id="stream-5999d124-c147-476e-a030-f24631657268" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png" group-title="🇯🇵 日本频道",NHK World-Japan
-http://caonima.898757.xyz/l/FpNZ8ndZGnLwPCHGi7xAOMgQN7Oigp0uie85jjmTRWEgw2GIyIBE7mFDWAy9ceJq/play
-#EXTINF:-1 tvg-id="stream-997c0a20-0a88-4d56-8885-9b92826e1ecd" tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" group-title="🇯🇵 日本频道",ショップチャンネル
-http://caonima.898757.xyz/l/D-frpYtLlI1B5GJPWYnAw1O8shKLlTfxPt5KlMdi0WfLUH6rjVt34h2fa5z1ysbl/index.m3u8
-#EXTINF:-1 tvg-id="stream-e515368d-9811-4144-9bc5-e037adf62143" tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="🇯🇵 日本频道",ウェザーニュースLiVE
-http://caonima.898757.xyz/l/7SNGo2uBIYwaEy4bUEFEK60xBQfD5wSJclpWPkk7jIeQSJquh4Ms3Zav_OLustLK/index.m3u8
-#EXTINF:-1 tvg-id="stream-ac0fad41-c3ef-4e48-bb01-feb567c072c3" tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="🇯🇵 日本频道",TOKYO MX チャンネル
-http://caonima.898757.xyz/l/grw5H9H17K6aGHrZte-L-etw0HQ2s2G8HhHXR4KIa0lMveN7Z0ZyUQnU7wLma4wY/play
-#EXTINF:-1 tvg-id="stream-25c48e5e-a53a-4f70-a422-5bb0c1dcd904" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="🇯🇵 日本频道",日テレNEWS
-http://caonima.898757.xyz/l/hy4T9vQ8OxlyT7Y_6NguTPF06LYj3Nnp0-shzWS0hrr8M4k5PQWFIZk23IvZYf55/index.m3u8
-#EXTINF:-1 tvg-id="stream-cfd7b569-ca2b-491e-a2e8-57ece5220c34" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" group-title="🇯🇵 日本频道",FNNプライムオンライン
-http://caonima.898757.xyz/l/iV_SbF7ZyzpkCGVgKiEKBiSI6KG_8J_crCplTYpwIrrid_lC6vmB7gRg_4gjN-WN/index.m3u8
-#EXTINF:-1 tvg-id="stream-627328e5-0d15-4b50-9a67-00d32d79e2f5" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="🇯🇵 日本频道",MBSニュース
-http://caonima.898757.xyz/l/anZfBCz5urU6FYgHB2V8ggyFFoIgcUYpcPnR0O2-K5SzOfuIce-2PjYBhTGYbJeK/index.m3u8
-#EXTINF:-1 tvg-id="stream-81014992-9c0a-42ca-8962-6bb64c98d171" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="🇯🇵 日本频道",NHK WORLD JAPAN
-http://caonima.898757.xyz/l/fc2O7_DIltCbJzV6yo9rjKRTpc1J0-tFMxIJtJDdVLzXA2DLyMdNvLEskHUQtJHH/index.m3u8
-#EXTINF:-1 tvg-id="stream-96ee9443-4d74-4bb1-baf8-9a360613fd6f" tvg-name="刺激ストロング" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_40.png" group-title="🇯🇵 日本频道",刺激ストロング
-http://caonima.898757.xyz/l/PwPxubPtxLYGH37LVjsGrpm900R4uKuePJR3OZz5wg3SCjhK-4vrQp-pXzq2OpHX/index.m3u8
-#EXTINF:-1 tvg-id="stream-105191b5-8bfe-4576-bdfa-04f5bfcc2f77" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png" group-title="🇯🇵 日本频道",Weather News
-http://caonima.898757.xyz/l/dlj1y4I9CQpWC5OckKEfFIWmUio-DsEe1xnOQRDr5ex1n4K-iEfPeNgcJLZrQijK/index.m3u8
-#EXTINF:-1 tvg-id="stream-b6306c2e-e20f-40bb-94b1-04b3f49c872e" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png" group-title="🇯🇵 日本频道",TOP BARÇA
-http://caonima.898757.xyz/l/WLyGn75fr7fprljHGE9P_6o9mLHrb6g1bU5QLJxO8Qf9_BjVwOUqo2yKmaZ9VPvg/index.m3u8
-#EXTINF:-1 tvg-id="stream-773b5ed4-94d4-4c4c-9444-324a6a16a381" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png" group-title="🇯🇵 日本频道",NHK World-Japan
-http://caonima.898757.xyz/l/MHUmui6Az-AmqHtAfN0l2bzJ-lcLfgqvoi8JpSTQHP8Snvq4YXZMsPp4QOzWznUe/index.m3u8
+
+
