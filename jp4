@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="2421" tvg-name="Arirang HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5f370fd2_Gyr3.png" group-title="韩国 ",Arirang HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2421
+#EXTINF:-1 tvg-id="2416" tvg-name="Yonhap News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4686a2e5_QQCz.png" group-title="韩国 ",Yonhap News
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2416
+#EXTINF:-1 tvg-id="1975" tvg-name="CBS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb08904e62_zFph.png" group-title="韩国 ",CBS
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1975
+#EXTINF:-1 tvg-id="2419" tvg-name="EBS 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac56a260e8_Lx0W.png" group-title="韩国 ",EBS 1
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2419
+#EXTINF:-1 tvg-id="1976" tvg-name="EBS2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb0d927d1d_6EaA.png" group-title="韩国 ",EBS2
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1976
+#EXTINF:-1 tvg-id="1977" tvg-name="EBS Plus2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb11e57dea_06bi.jpg" group-title="韩国 ",EBS Plus2
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1977
+#EXTINF:-1 tvg-id="1978" tvg-name="SBS Plus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb17e8d5b5_zt6T.png" group-title="韩国 ",SBS Plus
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1978
+#EXTINF:-1 tvg-id="2410" tvg-name="YTN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac1f0e6107_TlZT.png" group-title="韩国 ",YTN
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2410
+#EXTINF:-1 tvg-id="2411" tvg-name="KBS World 24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac24c2c8dd_99xd.jpg" group-title="韩国 ",KBS World 24
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2411
+#EXTINF:-1 tvg-id="2412" tvg-name="YTN Science" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac35893c14_9fd9.png" group-title="韩国 ",YTN Science
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2412
+#EXTINF:-1 tvg-id="2413" tvg-name="YTN Korean" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac39701e9b_TM4a.png" group-title="韩国 ",YTN Korean
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2413
+#EXTINF:-1 tvg-id="2414" tvg-name="YTN DMB" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac3cd1cf33_s57d.png" group-title="韩国 ",YTN DMB
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2414
+#EXTINF:-1 tvg-id="2415" tvg-name="Apps TV" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="韩国 ",Apps TV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2415
+#EXTINF:-1 tvg-id="2417" tvg-name="All the Kpop" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4bbaa0df_8s7B.png" group-title="韩国 ",All the Kpop
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2417
+#EXTINF:-1 tvg-id="2418" tvg-name="J the Kpop" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="韩国 ",J the Kpop
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2418
+#EXTINF:-1 tvg-id="2420" tvg-name="EBS Kids" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5a3a4ec0_lBY2.png" group-title="韩国 ",EBS Kids
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2420
+#EXTINF:-1 tvg-id="2422" tvg-name="CGNTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac62748808_59Yv.png" group-title="韩国 ",CGNTV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2422
+#EXTINF:-1 tvg-id="1397" tvg-name="NHK-総合-2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aeded5e1a572_L8od.png" group-title="日本 ",NHK-総合-2
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1397
+#EXTINF:-1 tvg-id="1398" tvg-name="NHK-E" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aededab2e3c3_8NNR.png" group-title="日本 ",NHK-E
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1398
+#EXTINF:-1 tvg-id="1400" tvg-name="テレビ朝日 Asahi TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedee79e389c_d18e.jpg" group-title="日本 ",テレビ朝日 Asahi TV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1400
+#EXTINF:-1 tvg-id="1394" tvg-name="JET 綜合" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedec68ee3ce_25ZB.png" group-title="日本 ",JET 綜合
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1394
+#EXTINF:-1 tvg-id="1402" tvg-name="テレビ東京 Tokyo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedeefd3fbb2_bR8K.jpg" group-title="日本 ",テレビ東京 Tokyo TV
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1402
+#EXTINF:-1 tvg-id="1404" tvg-name="TOKYOMX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedef71785ca_JKjZ.jpg" group-title="日本 ",TOKYOMX
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1404
+#EXTINF:-1 tvg-id="1412" tvg-name="NHKBS1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf21de25da_HS3R.jpg" group-title="日本 ",NHKBS1
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1412
+#EXTINF:-1 tvg-id="1413" tvg-name="NHKBSプレミア Premium" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf2639f151_F5H6.jpg" group-title="日本 ",NHKBSプレミア Premium
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1413
+#EXTINF:-1 tvg-id="1417" tvg-name="BSジャパン 181" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf35aae288_A34G.png" group-title="日本 ",BSジャパン 181
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1417
+#EXTINF:-1 tvg-id="1418" tvg-name="BSフジ BS Fuji" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf39725ca1_hD8X.jpg" group-title="日本 ",BSフジ BS Fuji
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1418
+#EXTINF:-1 tvg-id="1439" tvg-name="CNA Japan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf9959bae8_0j0Y.png" group-title="日本 ",CNA Japan
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1439
+#EXTINF:-1 tvg-id="2075" tvg-name="BS-TBS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d79d296d5c_wYKk.png" group-title="日本 ",BS-TBS
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2075
+#EXTINF:-1 tvg-id="2076" tvg-name="NHK Oaska" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d7b0a69215_N6az.jpg" group-title="日本 ",NHK Oaska
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2076
+#EXTINF:-1 tvg-id="2392" tvg-name="NHK World" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" group-title="日本 ",NHK World
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2392
